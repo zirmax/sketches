@@ -1,1 +1,5 @@
 # drawings
+
+I want to learn sketching and therefore will draw a sketch each day.
+
+Day 1 - [mew in a bubble](https://github.com/zirmax/drawings/blob/master/mew.png)
